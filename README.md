@@ -1,4 +1,4 @@
-# Team3Repository# NKU Parking App
+# NKU Parking App
 
 Team 3
 - Khalid Almutairi
